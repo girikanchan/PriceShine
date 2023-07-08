@@ -13,4 +13,4 @@ from django.core.wsgi import get_wsgi_application
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'startsignin.settings')
 
-application = get_wsgi_application()
+price-shine = get_wsgi_application()
